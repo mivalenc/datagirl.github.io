@@ -1,1 +1,51 @@
-# datagirl.github.io
+# Portfolio 
+[Download My Resume](docs/resume.pdf)
+
+## About Me
+
+Hi! I'm Michelle Valencia, a student in the data science program here in Omaha, NE. 
+I'm anticipating the completion of my Bachelor's degree in Spring of 2025. 
+I have acquired extensive practical experience in statistical modeling, data analysis, 
+and machine learning - complemented by proficiency in a range of advanced tools and programming languages. 
+I am actively seeking a role where I can leverage my analytical expertise to drive data-informed 
+decision-making and deliver actionable insights that support strategic business objectives. 
+
+## Skills/Proficiencies
+
+- Communication
+- Critical Thinking
+- Statistical Analysis
+- Data Manipulation and Cleaning
+- Programming: Python, R, SQL
+- Machine Learning
+
+## Interests
+
+Big Data - Leveraging big data using Hadoop and Spark to analyze large-scale datasets
+
+Data Architecture - Implementing data infrastructure
+
+Machine Learning - Building predictive models and exploring algorithms
+
+Continuous Learning - Staying abreast with merging data science trends and technologies
+
+Outside of data science, I enjoy spending time with my family and engaging in home renovation projects :) 
+
+## Projects
+
+Project 1: Walmart's Customer Satisfaction in Electronics & Home Entertainment <a href="https://username.github.io/portfolio/docs/resume.pdf" target="_blank">Download </a>
+
+
+Project 2: Survey Analysis on Student Satisfaction in Online Learning <a href="https://username.github.io/portfolio/docs/resume.pdf" target="_blank">Download </a>
+
+
+Project 3: Predicting Employee Attrition in HR Analytics <a href="https://username.github.io/portfolio/docs/resume.pdf" target="_blank">Download </a>
+
+
+## Work Experience
+
+Business Analyst I - (11/04/2024 - Present) Nebraska Methodist Health System - Omaha, NE
+Resume 
+## Contact Info
+
+Feel free to connect with me at [https://bold.pro/my/michelle-valencia-240821155407/170r] or drop me an email at: [michelle.valencia8400@gmail.com]
