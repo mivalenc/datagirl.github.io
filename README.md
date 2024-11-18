@@ -40,7 +40,7 @@ Project 1: Walmart's Customer Satisfaction in Electronics & Home Entertainment [
 
 Project 2: Survey Analysis of Student Satisfaction in Online Learning [Download](https://github.com/mivalenc/datagirl.github.io/blob/main/Project%202%20milestone%202%20Survey%20Analysis%20of%20Student%20Satisfaction%20in%20Online%20Learning.docx)
 
-Project 3: Predicting Employee Attrition in HR Analytics [Download]
+Project 3: Predicting Employee Attrition in HR Analytics [Download](https://github.com/mivalenc/datagirl.github.io/blob/main/Project_3_Milestone2_Employee_Attrition_Prediction.docx)
 
 ## Contact Info
 
