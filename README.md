@@ -1,4 +1,5 @@
-# Portfolio  [Resume]
+# Portfolio  
+[Resume](https://github.com/mivalenc/datagirl.github.io/blob/main/Michelle_Valencia_Github.pdf)
 
 ## About Me
 
