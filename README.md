@@ -38,7 +38,7 @@ SCM Business Analyst I - (11/04/2024 - Present) Nebraska Methodist Health System
 
 Project 1: Walmart's Customer Satisfaction in Electronics & Home Entertainment [Download](https://github.com/mivalenc/datagirl.github.io/issues/2)
 
-Project 2: Survey Analysis of Student Satisfaction in Online Learning [Download]
+Project 2: Survey Analysis of Student Satisfaction in Online Learning [Download](https://github.com/mivalenc/datagirl.github.io/blob/main/Project%202%20milestone%202%20Survey%20Analysis%20of%20Student%20Satisfaction%20in%20Online%20Learning.docx)
 
 Project 3: Predicting Employee Attrition in HR Analytics [Download]
 
