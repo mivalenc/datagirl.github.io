@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio  [Resume]
 
 ## About Me
 
@@ -31,13 +31,15 @@ Continuous Learning - Staying abreast with merging data science trends and techn
 Outside of data science, I enjoy spending time with my family and engaging in home renovation projects :) 
 ## Work Experience
 
-Business Analyst I - (11/04/2024 - Present) Nebraska Methodist Health System - Omaha, NE
+SCM Business Analyst I - (11/04/2024 - Present) Nebraska Methodist Health System - Omaha, NE
 
-Project 1: 
+## Projects
 
-Project 2: 
+Project 1: Walmart's Customer Satisfaction in Electronics & Home Entertainment [Download](https://github.com/mivalenc/datagirl.github.io/issues/2)
 
-Project 3: 
+Project 2: Survey Analysis of Student Satisfaction in Online Learning [Download]
+
+Project 3: Predicting Employee Attrition in HR Analytics [Download]
 
 ## Contact Info
 
